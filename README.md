@@ -1,3 +1,6 @@
+![Header](./github-header-image.png)
+
+
 # Auto Klem Fragmentz
 
 This repository contains a bot for interacting with the Rivalz Fragmentz claimer using Ethereum wallets.
